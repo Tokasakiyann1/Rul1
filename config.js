@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 }
 global.packname = data.namabot
 global.author = data.owner
-global.wm = data.namabot + ' ' + data.owner
+global.wm = data.namabot + '085657043989' + data.owner
 
 global.multiplier = 100 // The higher, The harder levelup
 
